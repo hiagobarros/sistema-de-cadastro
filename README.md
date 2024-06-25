@@ -8,8 +8,8 @@ Para rodar esse projeto na sua maquina, por favor digite:
 node app.js
 ```
 
-の　の;\n
-　も　\n
+の　の;
+　も　
 　へ
 
 (*-*)/ yo!
